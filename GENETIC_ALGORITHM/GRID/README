@@ -1,0 +1,101 @@
+I) Overview
+
+The steps involved in parallelizing code are as follows:
+
+1) Create parent genes:
+
+	---> Inputs: Limit on number of 1's
+		     File with interface positions
+
+	---> Outputs: File with the genes -> parent_genes.txt
+
+2) Program that trains the network and calculates correlation coefficient for a single gene over 5 folds.
+
+	---> Inputs: File with the genes
+		     A number indicating gene number in the file; Eg. 3
+		     File with interface positions
+		     PDB list file
+		     File with torsion angles
+
+	---> Output: The correlation coefficient - write this into a file with name p3_score.txt
+
+3) Script that concatenates all the coefficients and genes into a single file
+
+4) A program that mutates the parent genes to create child genes. Write them all into 1 file;
+   Eg. child_genes.txt
+
+5) Run program in Step 2 on all the child genes to calculate the average coefficient over 5 folds. Write
+   each gene and its coefficient into a seperate file. Eg. C3_score.txt
+
+6) A program that finds the best POPULATION of genes in the pool of parent and child genes. Write
+   these into the file parent_genes.txt, along with their scores.
+
+
+II) File format: parent_genes.txt, child_genes.txt
+
+These files must contain the following information:
+
+1) Gene code: A series of 1's and 0's representing the interface positions chosen.
+
+2) Score: The average pearsons correlation coefficient over N folds.
+
+3) Generation: Indicating how far the iterations have progressed.
+
+Format will be:
+
+GENE #1: Gene string
+
+SCORE: Whatever the score is, 0 if no score has been assigned as yet
+
+GENERATION: Generation
+
+#################################################################
+
+Scheme of execution - Loops
+--------------------------
+
+1) Create parent genes - creates "parent_genes.txt"
+				  ----------------
+
+2) For every parent gene, calculate score by executing the program "train_and_validate.exe"
+
+   This will create files such as P1_score.txt, P2_score.txt, P50_score.txt and so on...
+
+   Each of these processes is executed on the grid in parallel.
+
+3) Concatenate the P*_score.txt files into "parent_genes_and_scores.txt"
+					    ---------------------------
+
+   This step is performed when scores for all genes from the step above have been calculated.
+
+   cat P*_score.txt > parent_genes_and_scores.txt
+		      ---------------------------
+
+4) Create child genes - creates "child_genes.txt"
+				 ---------------
+
+   This is done by considering the file "parent_genes_and_scores.txt" and using a roulette wheel approach
+   in choosing higher scoring genes to create child genes.
+
+5) For every child gene, calculate score by executing program "train_and_validate.exe".
+
+   This will create C1_score.txt, C2_score.txt, C50_score.txt and so on....
+
+   Each of these processes is executed on the grid in parallel.
+
+6) Concatenate C*_score.txt to make the file "child_genes_and_scores.txt"
+					      --------------------------
+
+   This step is performed when scores for all genes from the step above have been calculated.
+
+   cat C*_score.txt > child_genes_and_scores.txt
+		      --------------------------
+
+7) Execute "select_best_genes.exe" to select the best scoring genes from among the parent and child genes.
+
+   This is done by examining the files "parent_genes_and_scores.txt" and "child_genes_and_scores.txt".
+
+   The best scoring genes are written into the file "parent_genes_and_scores.txt".
+
+
+STEPS 4 to 7 are iterated as many times as required.

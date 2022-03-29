@@ -1,0 +1,45 @@
+Scheme -
+
+1) Read PDB list
+
+2) Create the fold ranges.
+
+3) Read the interface positions.
+
+4) Read interface angles
+
+5) Read Kabat numbering into a set of linked listss.
+
+6) assign SNNS filenames.
+
+7) initialise parent population of genes.
+
+8) Score every parent gene - **** SCOPE FOR PARALLELIZATION *****
+   |
+   |
+   |------------------> Score gene against 5 folds
+					|--------------> Score gene against every fold
+
+9) Create the child genes based on scores of parent genes.
+
+10) Calculate the scores of child genes.
+
+11) Select the best genes in the given pool of parent and child genes.
+
+
+SCORING A GENE AGAINST A FOLD -> REQUIREMENTS.
+-----------------------------
+
+1) Get the interface positions into an array
+
+2) Get the Kabat numbered residues into a set of linked lists.
+
+3) Find the residues at interface positions.
+
+4) Read the matrix representing the residue properties.
+
+5) Construct a matrix representing the residues at the interface positions.
+
+6) Create the intermediate file.
+
+7) Read the intermediate file 

@@ -1,0 +1,7 @@
+Program: ./jumpstart.sh
+Number of genes: 1000
+Number of generations: 60
+Selection procedure: Rank
+Jump start file: parent_genes_and_scores.txt
+Mutation rate: 0.001
+Clear text files: N

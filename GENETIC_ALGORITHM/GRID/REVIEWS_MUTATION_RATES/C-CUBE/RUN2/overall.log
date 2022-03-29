@@ -1,0 +1,5 @@
+Program: ./overall_ga.sh
+Number of genes: 2000
+Number of generations: 30
+Selection procedure: Rank
+Mutation rate: 0.001

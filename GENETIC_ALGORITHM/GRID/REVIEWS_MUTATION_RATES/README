@@ -1,0 +1,19 @@
+General trends suggest that high mutation rates lead to a quick
+saturation in the population of parent genes.
+
+7th May, 12:00 AM - So far, I have tried both random mutations and
+mutations at every position. With both low and high mutation rates,
+the problems are the same - saturation in genes after a certain level.
+The GA refuses to progress after that point.
+
+Alternatives that I have to try:
+
+1) See trends of when the saturation starts to creep in. See if you
+   can make associations between the average correlation coefficient,
+   the standard deviation and the point at which saturation starts.
+
+2) Try reducing the overall mutation rate and run the GA for a 100 rounds
+   - THIS IS TO BE DONE TONIGHT.
+
+3) Further, programs to analyze the way the correlation coefficient moves
+   over 100 generations. Use a correlation coefficient of 0.0005.

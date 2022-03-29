@@ -1,0 +1,1437 @@
+Training set range: 1-480
+Squared error and positive error: 0.0587 0.2423
+################################################
+Training set range: 2-481
+Squared error and positive error: 0.0736 0.2712
+################################################
+Training set range: 3-1
+Squared error and positive error: 0.0013 0.0355
+################################################
+Training set range: 4-2
+Squared error and positive error: 0.0342 0.1850
+################################################
+Training set range: 5-3
+Squared error and positive error: 0.0000 0.0042
+################################################
+Training set range: 6-4
+Squared error and positive error: 0.0006 0.0246
+################################################
+Training set range: 7-5
+Squared error and positive error: 0.0005 0.0215
+################################################
+Training set range: 8-6
+Squared error and positive error: 0.0405 0.2013
+################################################
+Training set range: 9-7
+Squared error and positive error: 0.0028 0.0526
+################################################
+Training set range: 10-8
+Squared error and positive error: 0.0029 0.0542
+################################################
+Training set range: 11-9
+Squared error and positive error: 0.0032 0.0562
+################################################
+Training set range: 12-10
+Squared error and positive error: 0.0002 0.0141
+################################################
+Training set range: 13-11
+Squared error and positive error: 0.0056 0.0749
+################################################
+Training set range: 14-12
+Squared error and positive error: 0.0014 0.0373
+################################################
+Training set range: 15-13
+Squared error and positive error: 0.0065 0.0808
+################################################
+Training set range: 16-14
+Squared error and positive error: 0.0000 0.0014
+################################################
+Training set range: 17-15
+Squared error and positive error: 0.0074 0.0861
+################################################
+Training set range: 18-16
+Squared error and positive error: 0.0007 0.0258
+################################################
+Training set range: 19-17
+Squared error and positive error: 0.0001 0.0121
+################################################
+Training set range: 20-18
+Squared error and positive error: 0.0002 0.0138
+################################################
+Training set range: 21-19
+Squared error and positive error: 0.0127 0.1126
+################################################
+Training set range: 22-20
+Squared error and positive error: 0.0222 0.1489
+################################################
+Training set range: 23-21
+Squared error and positive error: 0.0559 0.2364
+################################################
+Training set range: 24-22
+Squared error and positive error: 0.0244 0.1561
+################################################
+Training set range: 25-23
+Squared error and positive error: 0.0016 0.0405
+################################################
+Training set range: 26-24
+Squared error and positive error: 0.0038 0.0620
+################################################
+Training set range: 27-25
+Squared error and positive error: 0.0113 0.1064
+################################################
+Training set range: 28-26
+Squared error and positive error: 0.0044 0.0664
+################################################
+Training set range: 29-27
+Squared error and positive error: 0.0005 0.0221
+################################################
+Training set range: 30-28
+Squared error and positive error: 0.0604 0.2458
+################################################
+Training set range: 31-29
+Squared error and positive error: 0.0084 0.0916
+################################################
+Training set range: 32-30
+Squared error and positive error: 0.0042 0.0647
+################################################
+Training set range: 33-31
+Squared error and positive error: 0.0094 0.0971
+################################################
+Training set range: 34-32
+Squared error and positive error: 0.0621 0.2491
+################################################
+Training set range: 35-33
+Squared error and positive error: 0.0087 0.0931
+################################################
+Training set range: 36-34
+Squared error and positive error: 0.0142 0.1192
+################################################
+Training set range: 37-35
+Squared error and positive error: 0.0257 0.1604
+################################################
+Training set range: 38-36
+Squared error and positive error: 0.0068 0.0826
+################################################
+Training set range: 39-37
+Squared error and positive error: 0.0232 0.1525
+################################################
+Training set range: 40-38
+Squared error and positive error: 0.0084 0.0919
+################################################
+Training set range: 41-39
+Squared error and positive error: 0.0162 0.1272
+################################################
+Training set range: 42-40
+Squared error and positive error: 0.0001 0.0099
+################################################
+Training set range: 43-41
+Squared error and positive error: 0.0817 0.2858
+################################################
+Training set range: 44-42
+Squared error and positive error: 0.0004 0.0192
+################################################
+Training set range: 45-43
+Squared error and positive error: 0.0113 0.1061
+################################################
+Training set range: 46-44
+Squared error and positive error: 0.0003 0.0184
+################################################
+Training set range: 47-45
+Squared error and positive error: 0.0038 0.0617
+################################################
+Training set range: 48-46
+Squared error and positive error: 0.0027 0.0521
+################################################
+Training set range: 49-47
+Squared error and positive error: 0.0000 0.0066
+################################################
+Training set range: 50-48
+Squared error and positive error: 0.0059 0.0766
+################################################
+Training set range: 51-49
+Squared error and positive error: 0.0019 0.0434
+################################################
+Training set range: 52-50
+Squared error and positive error: 0.0002 0.0146
+################################################
+Training set range: 53-51
+Squared error and positive error: 0.0005 0.0214
+################################################
+Training set range: 54-52
+Squared error and positive error: 0.0040 0.0630
+################################################
+Training set range: 55-53
+Squared error and positive error: 0.0011 0.0338
+################################################
+Training set range: 56-54
+Squared error and positive error: 0.0006 0.0240
+################################################
+Training set range: 57-55
+Squared error and positive error: 0.0127 0.1127
+################################################
+Training set range: 58-56
+Squared error and positive error: 0.0992 0.3149
+################################################
+Training set range: 59-57
+Squared error and positive error: 0.0015 0.0390
+################################################
+Training set range: 60-58
+Squared error and positive error: 0.0011 0.0339
+################################################
+Training set range: 61-59
+Squared error and positive error: 0.0033 0.0578
+################################################
+Training set range: 62-60
+Squared error and positive error: 0.0236 0.1535
+################################################
+Training set range: 63-61
+Squared error and positive error: 0.0059 0.0767
+################################################
+Training set range: 64-62
+Squared error and positive error: 0.0008 0.0275
+################################################
+Training set range: 65-63
+Squared error and positive error: 0.0001 0.0118
+################################################
+Training set range: 66-64
+Squared error and positive error: 0.0015 0.0388
+################################################
+Training set range: 67-65
+Squared error and positive error: 0.0001 0.0101
+################################################
+Training set range: 68-66
+Squared error and positive error: 0.0108 0.1041
+################################################
+Training set range: 69-67
+Squared error and positive error: 0.0001 0.0073
+################################################
+Training set range: 70-68
+Squared error and positive error: 0.0055 0.0745
+################################################
+Training set range: 71-69
+Squared error and positive error: 0.0000 0.0067
+################################################
+Training set range: 72-70
+Squared error and positive error: 0.0013 0.0356
+################################################
+Training set range: 73-71
+Squared error and positive error: 0.0009 0.0306
+################################################
+Training set range: 74-72
+Squared error and positive error: 0.0001 0.0077
+################################################
+Training set range: 75-73
+Squared error and positive error: 0.0031 0.0555
+################################################
+Training set range: 76-74
+Squared error and positive error: 0.0385 0.1961
+################################################
+Training set range: 77-75
+Squared error and positive error: 0.0015 0.0384
+################################################
+Training set range: 78-76
+Squared error and positive error: 0.0130 0.1142
+################################################
+Training set range: 79-77
+Squared error and positive error: 0.0000 0.0057
+################################################
+Training set range: 80-78
+Squared error and positive error: 0.0027 0.0518
+################################################
+Training set range: 81-79
+Squared error and positive error: 0.0000 0.0011
+################################################
+Training set range: 82-80
+Squared error and positive error: 0.0035 0.0592
+################################################
+Training set range: 83-81
+Squared error and positive error: 0.0003 0.0164
+################################################
+Training set range: 84-82
+Squared error and positive error: 0.0032 0.0570
+################################################
+Training set range: 85-83
+Squared error and positive error: 0.0003 0.0159
+################################################
+Training set range: 86-84
+Squared error and positive error: 0.0006 0.0253
+################################################
+Training set range: 87-85
+Squared error and positive error: 0.0581 0.2410
+################################################
+Training set range: 88-86
+Squared error and positive error: 0.0222 0.1491
+################################################
+Training set range: 89-87
+Squared error and positive error: 0.0000 0.0064
+################################################
+Training set range: 90-88
+Squared error and positive error: 0.0000 0.0023
+################################################
+Training set range: 91-89
+Squared error and positive error: 0.0028 0.0525
+################################################
+Training set range: 92-90
+Squared error and positive error: 0.0000 0.0015
+################################################
+Training set range: 93-91
+Squared error and positive error: 0.0962 0.3102
+################################################
+Training set range: 94-92
+Squared error and positive error: 0.0020 0.0451
+################################################
+Training set range: 95-93
+Squared error and positive error: 0.0001 0.0100
+################################################
+Training set range: 96-94
+Squared error and positive error: 0.0271 0.1646
+################################################
+Training set range: 97-95
+Squared error and positive error: 0.0062 0.0785
+################################################
+Training set range: 98-96
+Squared error and positive error: 0.0175 0.1323
+################################################
+Training set range: 99-97
+Squared error and positive error: 0.0054 0.0736
+################################################
+Training set range: 100-98
+Squared error and positive error: 0.0001 0.0071
+################################################
+Training set range: 101-99
+Squared error and positive error: 0.0230 0.1518
+################################################
+Training set range: 102-100
+Squared error and positive error: 0.0062 0.0785
+################################################
+Training set range: 103-101
+Squared error and positive error: 0.0068 0.0826
+################################################
+Training set range: 104-102
+Squared error and positive error: 0.0001 0.0106
+################################################
+Training set range: 105-103
+Squared error and positive error: 0.0303 0.1742
+################################################
+Training set range: 106-104
+Squared error and positive error: 0.0030 0.0551
+################################################
+Training set range: 107-105
+Squared error and positive error: 0.0015 0.0385
+################################################
+Training set range: 108-106
+Squared error and positive error: 0.0000 0.0033
+################################################
+Training set range: 109-107
+Squared error and positive error: 0.0021 0.0462
+################################################
+Training set range: 110-108
+Squared error and positive error: 0.0001 0.0082
+################################################
+Training set range: 111-109
+Squared error and positive error: 0.0135 0.1162
+################################################
+Training set range: 112-110
+Squared error and positive error: 0.0014 0.0368
+################################################
+Training set range: 113-111
+Squared error and positive error: 0.0033 0.0575
+################################################
+Training set range: 114-112
+Squared error and positive error: 0.0009 0.0303
+################################################
+Training set range: 115-113
+Squared error and positive error: 0.0108 0.1039
+################################################
+Training set range: 116-114
+Squared error and positive error: 0.0111 0.1052
+################################################
+Training set range: 117-115
+Squared error and positive error: 0.0178 0.1333
+################################################
+Training set range: 118-116
+Squared error and positive error: 0.0080 0.0896
+################################################
+Training set range: 119-117
+Squared error and positive error: 0.0002 0.0152
+################################################
+Training set range: 120-118
+Squared error and positive error: 0.0001 0.0108
+################################################
+Training set range: 121-119
+Squared error and positive error: 0.0017 0.0416
+################################################
+Training set range: 122-120
+Squared error and positive error: 0.0004 0.0189
+################################################
+Training set range: 123-121
+Squared error and positive error: 0.0016 0.0403
+################################################
+Training set range: 124-122
+Squared error and positive error: 0.0002 0.0133
+################################################
+Training set range: 125-123
+Squared error and positive error: 0.0035 0.0589
+################################################
+Training set range: 126-124
+Squared error and positive error: 0.1517 0.3894
+################################################
+Training set range: 127-125
+Squared error and positive error: 0.0182 0.1350
+################################################
+Training set range: 128-126
+Squared error and positive error: 0.0570 0.2388
+################################################
+Training set range: 129-127
+Squared error and positive error: 0.0005 0.0233
+################################################
+Training set range: 130-128
+Squared error and positive error: 0.0001 0.0120
+################################################
+Training set range: 131-129
+Squared error and positive error: 0.0066 0.0811
+################################################
+Training set range: 132-130
+Squared error and positive error: 0.0244 0.1563
+################################################
+Training set range: 133-131
+Squared error and positive error: 0.0011 0.0338
+################################################
+Training set range: 134-132
+Squared error and positive error: 0.0006 0.0245
+################################################
+Training set range: 135-133
+Squared error and positive error: 0.0007 0.0263
+################################################
+Training set range: 136-134
+Squared error and positive error: 0.0006 0.0247
+################################################
+Training set range: 137-135
+Squared error and positive error: 0.0000 0.0022
+################################################
+Training set range: 138-136
+Squared error and positive error: 0.0003 0.0165
+################################################
+Training set range: 139-137
+Squared error and positive error: 0.0000 0.0040
+################################################
+Training set range: 140-138
+Squared error and positive error: 0.0008 0.0283
+################################################
+Training set range: 141-139
+Squared error and positive error: 0.0181 0.1347
+################################################
+Training set range: 142-140
+Squared error and positive error: 0.0625 0.2500
+################################################
+Training set range: 143-141
+Squared error and positive error: 0.0224 0.1497
+################################################
+Training set range: 144-142
+Squared error and positive error: 0.0056 0.0747
+################################################
+Training set range: 145-143
+Squared error and positive error: 0.0038 0.0619
+################################################
+Training set range: 146-144
+Squared error and positive error: 0.0165 0.1285
+################################################
+Training set range: 147-145
+Squared error and positive error: 0.0291 0.1705
+################################################
+Training set range: 148-146
+Squared error and positive error: 0.0137 0.1170
+################################################
+Training set range: 149-147
+Squared error and positive error: 0.0028 0.0530
+################################################
+Training set range: 150-148
+Squared error and positive error: 0.0031 0.0553
+################################################
+Training set range: 151-149
+Squared error and positive error: 0.0012 0.0343
+################################################
+Training set range: 152-150
+Squared error and positive error: 0.0030 0.0547
+################################################
+Training set range: 153-151
+Squared error and positive error: 0.0021 0.0460
+################################################
+Training set range: 154-152
+Squared error and positive error: 0.0004 0.0192
+################################################
+Training set range: 155-153
+Squared error and positive error: 0.0099 0.0997
+################################################
+Training set range: 156-154
+Squared error and positive error: 0.0002 0.0136
+################################################
+Training set range: 157-155
+Squared error and positive error: 0.0015 0.0391
+################################################
+Training set range: 158-156
+Squared error and positive error: 0.0062 0.0787
+################################################
+Training set range: 159-157
+Squared error and positive error: 0.0000 0.0010
+################################################
+Training set range: 160-158
+Squared error and positive error: 0.0029 0.0543
+################################################
+Training set range: 161-159
+Squared error and positive error: 0.0009 0.0294
+################################################
+Training set range: 162-160
+Squared error and positive error: 0.0013 0.0354
+################################################
+Training set range: 163-161
+Squared error and positive error: 0.0057 0.0753
+################################################
+Training set range: 164-162
+Squared error and positive error: 0.0000 0.0013
+################################################
+Training set range: 165-163
+Squared error and positive error: 0.0030 0.0552
+################################################
+Training set range: 166-164
+Squared error and positive error: 0.0089 0.0944
+################################################
+Training set range: 167-165
+Squared error and positive error: 0.0132 0.1147
+################################################
+Training set range: 168-166
+Squared error and positive error: 0.0158 0.1256
+################################################
+Training set range: 169-167
+Squared error and positive error: 0.0000 0.0011
+################################################
+Training set range: 170-168
+Squared error and positive error: 0.0001 0.0098
+################################################
+Training set range: 171-169
+Squared error and positive error: 0.0001 0.0117
+################################################
+Training set range: 172-170
+Squared error and positive error: 0.0003 0.0180
+################################################
+Training set range: 173-171
+Squared error and positive error: 0.0001 0.0090
+################################################
+Training set range: 174-172
+Squared error and positive error: 0.0011 0.0332
+################################################
+Training set range: 175-173
+Squared error and positive error: 0.0131 0.1144
+################################################
+Training set range: 176-174
+Squared error and positive error: 0.0045 0.0670
+################################################
+Training set range: 177-175
+Squared error and positive error: 0.0021 0.0456
+################################################
+Training set range: 178-176
+Squared error and positive error: 0.0287 0.1695
+################################################
+Training set range: 179-177
+Squared error and positive error: 0.0005 0.0224
+################################################
+Training set range: 180-178
+Squared error and positive error: 0.0067 0.0817
+################################################
+Training set range: 181-179
+Squared error and positive error: 0.0025 0.0495
+################################################
+Training set range: 182-180
+Squared error and positive error: 0.0000 0.0048
+################################################
+Training set range: 183-181
+Squared error and positive error: 0.0013 0.0361
+################################################
+Training set range: 184-182
+Squared error and positive error: 0.0032 0.0569
+################################################
+Training set range: 185-183
+Squared error and positive error: 0.0011 0.0326
+################################################
+Training set range: 186-184
+Squared error and positive error: 0.0028 0.0529
+################################################
+Training set range: 187-185
+Squared error and positive error: 0.0004 0.0193
+################################################
+Training set range: 188-186
+Squared error and positive error: 0.0036 0.0601
+################################################
+Training set range: 189-187
+Squared error and positive error: 0.0002 0.0149
+################################################
+Training set range: 190-188
+Squared error and positive error: 0.0021 0.0463
+################################################
+Training set range: 191-189
+Squared error and positive error: 0.0099 0.0997
+################################################
+Training set range: 192-190
+Squared error and positive error: 0.0000 0.0002
+################################################
+Training set range: 193-191
+Squared error and positive error: 0.0000 0.0061
+################################################
+Training set range: 194-192
+Squared error and positive error: 0.0036 0.0596
+################################################
+Training set range: 195-193
+Squared error and positive error: 0.0015 0.0382
+################################################
+Training set range: 196-194
+Squared error and positive error: 0.0003 0.0177
+################################################
+Training set range: 197-195
+Squared error and positive error: 0.0000 0.0001
+################################################
+Training set range: 198-196
+Squared error and positive error: 0.0117 0.1084
+################################################
+Training set range: 199-197
+Squared error and positive error: 0.0009 0.0294
+################################################
+Training set range: 200-198
+Squared error and positive error: 0.0000 0.0058
+################################################
+Training set range: 201-199
+Squared error and positive error: 0.0005 0.0230
+################################################
+Training set range: 202-200
+Squared error and positive error: 0.0001 0.0119
+################################################
+Training set range: 203-201
+Squared error and positive error: 0.0002 0.0135
+################################################
+Training set range: 204-202
+Squared error and positive error: 0.0017 0.0417
+################################################
+Training set range: 205-203
+Squared error and positive error: 0.0081 0.0899
+################################################
+Training set range: 206-204
+Squared error and positive error: 0.0701 0.2648
+################################################
+Training set range: 207-205
+Squared error and positive error: 0.0004 0.0190
+################################################
+Training set range: 208-206
+Squared error and positive error: 0.0215 0.1466
+################################################
+Training set range: 209-207
+Squared error and positive error: 0.0426 0.2064
+################################################
+Training set range: 210-208
+Squared error and positive error: 0.0028 0.0528
+################################################
+Training set range: 211-209
+Squared error and positive error: 0.0006 0.0238
+################################################
+Training set range: 212-210
+Squared error and positive error: 0.0003 0.0172
+################################################
+Training set range: 213-211
+Squared error and positive error: 0.0007 0.0273
+################################################
+Training set range: 214-212
+Squared error and positive error: 0.0015 0.0385
+################################################
+Training set range: 215-213
+Squared error and positive error: 0.0233 0.1527
+################################################
+Training set range: 216-214
+Squared error and positive error: 0.0273 0.1653
+################################################
+Training set range: 217-215
+Squared error and positive error: 0.0136 0.1167
+################################################
+Training set range: 218-216
+Squared error and positive error: 0.0027 0.0522
+################################################
+Training set range: 219-217
+Squared error and positive error: 0.0056 0.0747
+################################################
+Training set range: 220-218
+Squared error and positive error: 0.0014 0.0377
+################################################
+Training set range: 221-219
+Squared error and positive error: 0.0015 0.0388
+################################################
+Training set range: 222-220
+Squared error and positive error: 0.0045 0.0674
+################################################
+Training set range: 223-221
+Squared error and positive error: 0.0131 0.1146
+################################################
+Training set range: 224-222
+Squared error and positive error: 0.0095 0.0973
+################################################
+Training set range: 225-223
+Squared error and positive error: 0.0191 0.1381
+################################################
+Training set range: 226-224
+Squared error and positive error: 0.0080 0.0896
+################################################
+Training set range: 227-225
+Squared error and positive error: 0.0033 0.0578
+################################################
+Training set range: 228-226
+Squared error and positive error: 0.0000 0.0055
+################################################
+Training set range: 229-227
+Squared error and positive error: 0.0012 0.0347
+################################################
+Training set range: 230-228
+Squared error and positive error: 0.0000 0.0065
+################################################
+Training set range: 231-229
+Squared error and positive error: 0.0000 0.0041
+################################################
+Training set range: 232-230
+Squared error and positive error: 0.0000 0.0015
+################################################
+Training set range: 233-231
+Squared error and positive error: 0.0017 0.0415
+################################################
+Training set range: 234-232
+Squared error and positive error: 0.0010 0.0312
+################################################
+Training set range: 235-233
+Squared error and positive error: 0.0037 0.0607
+################################################
+Training set range: 236-234
+Squared error and positive error: 0.0054 0.0736
+################################################
+Training set range: 237-235
+Squared error and positive error: 0.0011 0.0326
+################################################
+Training set range: 238-236
+Squared error and positive error: 0.0040 0.0631
+################################################
+Training set range: 239-237
+Squared error and positive error: 0.0149 0.1220
+################################################
+Training set range: 240-238
+Squared error and positive error: 0.0006 0.0251
+################################################
+Training set range: 241-239
+Squared error and positive error: 0.0118 0.1087
+################################################
+Training set range: 242-240
+Squared error and positive error: 0.0000 0.0044
+################################################
+Training set range: 243-241
+Squared error and positive error: 0.0082 0.0905
+################################################
+Training set range: 244-242
+Squared error and positive error: 0.0036 0.0602
+################################################
+Training set range: 245-243
+Squared error and positive error: 0.0161 0.1268
+################################################
+Training set range: 246-244
+Squared error and positive error: 0.0000 0.0038
+################################################
+Training set range: 247-245
+Squared error and positive error: 0.0002 0.0131
+################################################
+Training set range: 248-246
+Squared error and positive error: 0.0009 0.0292
+################################################
+Training set range: 249-247
+Squared error and positive error: 0.0000 0.0038
+################################################
+Training set range: 250-248
+Squared error and positive error: 0.0015 0.0389
+################################################
+Training set range: 251-249
+Squared error and positive error: 0.0299 0.1728
+################################################
+Training set range: 252-250
+Squared error and positive error: 0.0000 0.0058
+################################################
+Training set range: 253-251
+Squared error and positive error: 0.0018 0.0426
+################################################
+Training set range: 254-252
+Squared error and positive error: 0.0004 0.0210
+################################################
+Training set range: 255-253
+Squared error and positive error: 0.0001 0.0118
+################################################
+Training set range: 256-254
+Squared error and positive error: 0.0237 0.1538
+################################################
+Training set range: 257-255
+Squared error and positive error: 0.0048 0.0690
+################################################
+Training set range: 258-256
+Squared error and positive error: 0.0005 0.0228
+################################################
+Training set range: 259-257
+Squared error and positive error: 0.0011 0.0324
+################################################
+Training set range: 260-258
+Squared error and positive error: 0.0005 0.0216
+################################################
+Training set range: 261-259
+Squared error and positive error: 0.0072 0.0851
+################################################
+Training set range: 262-260
+Squared error and positive error: 0.0050 0.0708
+################################################
+Training set range: 263-261
+Squared error and positive error: 0.0014 0.0377
+################################################
+Training set range: 264-262
+Squared error and positive error: 0.0002 0.0126
+################################################
+Training set range: 265-263
+Squared error and positive error: 0.0014 0.0380
+################################################
+Training set range: 266-264
+Squared error and positive error: 0.0019 0.0441
+################################################
+Training set range: 267-265
+Squared error and positive error: 0.1067 0.3267
+################################################
+Training set range: 268-266
+Squared error and positive error: 0.0006 0.0240
+################################################
+Training set range: 269-267
+Squared error and positive error: 0.0002 0.0134
+################################################
+Training set range: 270-268
+Squared error and positive error: 0.0015 0.0386
+################################################
+Training set range: 271-269
+Squared error and positive error: 0.0010 0.0310
+################################################
+Training set range: 272-270
+Squared error and positive error: 0.0000 0.0024
+################################################
+Training set range: 273-271
+Squared error and positive error: 0.0002 0.0151
+################################################
+Training set range: 274-272
+Squared error and positive error: 0.0018 0.0418
+################################################
+Training set range: 275-273
+Squared error and positive error: 0.0113 0.1062
+################################################
+Training set range: 276-274
+Squared error and positive error: 0.0081 0.0900
+################################################
+Training set range: 277-275
+Squared error and positive error: 0.0030 0.0546
+################################################
+Training set range: 278-276
+Squared error and positive error: 0.0108 0.1041
+################################################
+Training set range: 279-277
+Squared error and positive error: 0.0145 0.1204
+################################################
+Training set range: 280-278
+Squared error and positive error: 0.0042 0.0648
+################################################
+Training set range: 281-279
+Squared error and positive error: 0.0012 0.0344
+################################################
+Training set range: 282-280
+Squared error and positive error: 0.0003 0.0174
+################################################
+Training set range: 283-281
+Squared error and positive error: 0.0005 0.0228
+################################################
+Training set range: 284-282
+Squared error and positive error: 0.0000 0.0034
+################################################
+Training set range: 285-283
+Squared error and positive error: 0.0285 0.1689
+################################################
+Training set range: 286-284
+Squared error and positive error: 0.0165 0.1286
+################################################
+Training set range: 287-285
+Squared error and positive error: 0.0040 0.0636
+################################################
+Training set range: 288-286
+Squared error and positive error: 0.0005 0.0234
+################################################
+Training set range: 289-287
+Squared error and positive error: 0.0013 0.0367
+################################################
+Training set range: 290-288
+Squared error and positive error: 0.0075 0.0863
+################################################
+Training set range: 291-289
+Squared error and positive error: 0.0091 0.0954
+################################################
+Training set range: 292-290
+Squared error and positive error: 0.0001 0.0083
+################################################
+Training set range: 293-291
+Squared error and positive error: 0.0325 0.1803
+################################################
+Training set range: 294-292
+Squared error and positive error: 0.0002 0.0125
+################################################
+Training set range: 295-293
+Squared error and positive error: 0.0012 0.0341
+################################################
+Training set range: 296-294
+Squared error and positive error: 0.0008 0.0283
+################################################
+Training set range: 297-295
+Squared error and positive error: 0.0036 0.0598
+################################################
+Training set range: 298-296
+Squared error and positive error: 0.0000 0.0040
+################################################
+Training set range: 299-297
+Squared error and positive error: 0.0002 0.0136
+################################################
+Training set range: 300-298
+Squared error and positive error: 0.0001 0.0105
+################################################
+Training set range: 301-299
+Squared error and positive error: 0.0172 0.1311
+################################################
+Training set range: 302-300
+Squared error and positive error: 0.0010 0.0313
+################################################
+Training set range: 303-301
+Squared error and positive error: 0.0133 0.1155
+################################################
+Training set range: 304-302
+Squared error and positive error: 0.0337 0.1834
+################################################
+Training set range: 305-303
+Squared error and positive error: 0.0016 0.0402
+################################################
+Training set range: 306-304
+Squared error and positive error: 0.0004 0.0196
+################################################
+Training set range: 307-305
+Squared error and positive error: 0.2078 0.4558
+################################################
+Training set range: 308-306
+Squared error and positive error: 0.0021 0.0461
+################################################
+Training set range: 309-307
+Squared error and positive error: 0.0025 0.0496
+################################################
+Training set range: 310-308
+Squared error and positive error: 0.0002 0.0148
+################################################
+Training set range: 311-309
+Squared error and positive error: 0.0000 0.0030
+################################################
+Training set range: 312-310
+Squared error and positive error: 0.0000 0.0009
+################################################
+Training set range: 313-311
+Squared error and positive error: 0.0000 0.0004
+################################################
+Training set range: 314-312
+Squared error and positive error: 0.0023 0.0479
+################################################
+Training set range: 315-313
+Squared error and positive error: 0.0000 0.0026
+################################################
+Training set range: 316-314
+Squared error and positive error: 0.0028 0.0530
+################################################
+Training set range: 317-315
+Squared error and positive error: 0.0023 0.0484
+################################################
+Training set range: 318-316
+Squared error and positive error: 0.0035 0.0589
+################################################
+Training set range: 319-317
+Squared error and positive error: 0.0040 0.0632
+################################################
+Training set range: 320-318
+Squared error and positive error: 0.0440 0.2098
+################################################
+Training set range: 321-319
+Squared error and positive error: 0.0196 0.1400
+################################################
+Training set range: 322-320
+Squared error and positive error: 0.0077 0.0877
+################################################
+Training set range: 323-321
+Squared error and positive error: 0.0162 0.1274
+################################################
+Training set range: 324-322
+Squared error and positive error: 0.0000 0.0033
+################################################
+Training set range: 325-323
+Squared error and positive error: 0.0040 0.0630
+################################################
+Training set range: 326-324
+Squared error and positive error: 0.0011 0.0325
+################################################
+Training set range: 327-325
+Squared error and positive error: 0.0012 0.0340
+################################################
+Training set range: 328-326
+Squared error and positive error: 0.0010 0.0310
+################################################
+Training set range: 329-327
+Squared error and positive error: 0.0004 0.0196
+################################################
+Training set range: 330-328
+Squared error and positive error: 0.0002 0.0131
+################################################
+Training set range: 331-329
+Squared error and positive error: 0.0006 0.0247
+################################################
+Training set range: 332-330
+Squared error and positive error: 0.0002 0.0128
+################################################
+Training set range: 333-331
+Squared error and positive error: 0.0006 0.0244
+################################################
+Training set range: 334-332
+Squared error and positive error: 0.0081 0.0898
+################################################
+Training set range: 335-333
+Squared error and positive error: 0.0135 0.1160
+################################################
+Training set range: 336-334
+Squared error and positive error: 0.0001 0.0086
+################################################
+Training set range: 337-335
+Squared error and positive error: 0.0001 0.0083
+################################################
+Training set range: 338-336
+Squared error and positive error: 0.0017 0.0416
+################################################
+Training set range: 339-337
+Squared error and positive error: 0.0245 0.1567
+################################################
+Training set range: 340-338
+Squared error and positive error: 0.0030 0.0543
+################################################
+Training set range: 341-339
+Squared error and positive error: 0.0010 0.0315
+################################################
+Training set range: 342-340
+Squared error and positive error: 0.0016 0.0396
+################################################
+Training set range: 343-341
+Squared error and positive error: 0.0025 0.0495
+################################################
+Training set range: 344-342
+Squared error and positive error: 0.0008 0.0286
+################################################
+Training set range: 345-343
+Squared error and positive error: 0.0001 0.0104
+################################################
+Training set range: 346-344
+Squared error and positive error: 0.0022 0.0464
+################################################
+Training set range: 347-345
+Squared error and positive error: 0.0007 0.0271
+################################################
+Training set range: 348-346
+Squared error and positive error: 0.0016 0.0398
+################################################
+Training set range: 349-347
+Squared error and positive error: 0.0435 0.2086
+################################################
+Training set range: 350-348
+Squared error and positive error: 0.0000 0.0019
+################################################
+Training set range: 351-349
+Squared error and positive error: 0.0026 0.0514
+################################################
+Training set range: 352-350
+Squared error and positive error: 0.0051 0.0716
+################################################
+Training set range: 353-351
+Squared error and positive error: 0.0785 0.2802
+################################################
+Training set range: 354-352
+Squared error and positive error: 0.0006 0.0243
+################################################
+Training set range: 355-353
+Squared error and positive error: 0.0001 0.0109
+################################################
+Training set range: 356-354
+Squared error and positive error: 0.0712 0.2668
+################################################
+Training set range: 357-355
+Squared error and positive error: 0.0004 0.0209
+################################################
+Training set range: 358-356
+Squared error and positive error: 0.0035 0.0594
+################################################
+Training set range: 359-357
+Squared error and positive error: 0.0139 0.1179
+################################################
+Training set range: 360-358
+Squared error and positive error: 0.0037 0.0609
+################################################
+Training set range: 361-359
+Squared error and positive error: 0.0009 0.0293
+################################################
+Training set range: 362-360
+Squared error and positive error: 0.0077 0.0876
+################################################
+Training set range: 363-361
+Squared error and positive error: 0.0003 0.0181
+################################################
+Training set range: 364-362
+Squared error and positive error: 0.0001 0.0088
+################################################
+Training set range: 365-363
+Squared error and positive error: 0.0073 0.0854
+################################################
+Training set range: 366-364
+Squared error and positive error: 0.0073 0.0856
+################################################
+Training set range: 367-365
+Squared error and positive error: 0.0011 0.0330
+################################################
+Training set range: 368-366
+Squared error and positive error: 0.0001 0.0101
+################################################
+Training set range: 369-367
+Squared error and positive error: 0.0013 0.0356
+################################################
+Training set range: 370-368
+Squared error and positive error: 0.0050 0.0706
+################################################
+Training set range: 371-369
+Squared error and positive error: 0.0013 0.0366
+################################################
+Training set range: 372-370
+Squared error and positive error: 0.0004 0.0202
+################################################
+Training set range: 373-371
+Squared error and positive error: 0.0003 0.0179
+################################################
+Training set range: 374-372
+Squared error and positive error: 0.0002 0.0128
+################################################
+Training set range: 375-373
+Squared error and positive error: 0.0018 0.0429
+################################################
+Training set range: 376-374
+Squared error and positive error: 0.0008 0.0288
+################################################
+Training set range: 377-375
+Squared error and positive error: 0.0094 0.0971
+################################################
+Training set range: 378-376
+Squared error and positive error: 0.0002 0.0152
+################################################
+Training set range: 379-377
+Squared error and positive error: 0.0001 0.0108
+################################################
+Training set range: 380-378
+Squared error and positive error: 0.0001 0.0100
+################################################
+Training set range: 381-379
+Squared error and positive error: 0.0000 0.0059
+################################################
+Training set range: 382-380
+Squared error and positive error: 0.0002 0.0130
+################################################
+Training set range: 383-381
+Squared error and positive error: 0.0003 0.0182
+################################################
+Training set range: 384-382
+Squared error and positive error: 0.0000 0.0049
+################################################
+Training set range: 385-383
+Squared error and positive error: 0.0000 0.0017
+################################################
+Training set range: 386-384
+Squared error and positive error: 0.0000 0.0059
+################################################
+Training set range: 387-385
+Squared error and positive error: 0.0000 0.0059
+################################################
+Training set range: 388-386
+Squared error and positive error: 0.0001 0.0121
+################################################
+Training set range: 389-387
+Squared error and positive error: 0.0000 0.0024
+################################################
+Training set range: 390-388
+Squared error and positive error: 0.0001 0.0091
+################################################
+Training set range: 391-389
+Squared error and positive error: 0.0000 0.0057
+################################################
+Training set range: 392-390
+Squared error and positive error: 0.0001 0.0119
+################################################
+Training set range: 393-391
+Squared error and positive error: 0.0022 0.0471
+################################################
+Training set range: 394-392
+Squared error and positive error: 0.0000 0.0067
+################################################
+Training set range: 395-393
+Squared error and positive error: 0.0000 0.0069
+################################################
+Training set range: 396-394
+Squared error and positive error: 0.0000 0.0064
+################################################
+Training set range: 397-395
+Squared error and positive error: 0.0003 0.0168
+################################################
+Training set range: 398-396
+Squared error and positive error: 0.0056 0.0747
+################################################
+Training set range: 399-397
+Squared error and positive error: 0.0118 0.1085
+################################################
+Training set range: 400-398
+Squared error and positive error: 0.0217 0.1473
+################################################
+Training set range: 401-399
+Squared error and positive error: 0.0005 0.0224
+################################################
+Training set range: 402-400
+Squared error and positive error: 0.0267 0.1635
+################################################
+Training set range: 403-401
+Squared error and positive error: 0.0034 0.0586
+################################################
+Training set range: 404-402
+Squared error and positive error: 0.0088 0.0940
+################################################
+Training set range: 405-403
+Squared error and positive error: 0.0004 0.0193
+################################################
+Training set range: 406-404
+Squared error and positive error: 0.0014 0.0376
+################################################
+Training set range: 407-405
+Squared error and positive error: 0.0000 0.0024
+################################################
+Training set range: 408-406
+Squared error and positive error: 0.0026 0.0508
+################################################
+Training set range: 409-407
+Squared error and positive error: 0.0007 0.0272
+################################################
+Training set range: 410-408
+Squared error and positive error: 0.0136 0.1168
+################################################
+Training set range: 411-409
+Squared error and positive error: 0.0150 0.1224
+################################################
+Training set range: 412-410
+Squared error and positive error: 0.0001 0.0122
+################################################
+Training set range: 413-411
+Squared error and positive error: 0.0044 0.0660
+################################################
+Training set range: 414-412
+Squared error and positive error: 0.0056 0.0749
+################################################
+Training set range: 415-413
+Squared error and positive error: 0.0031 0.0554
+################################################
+Training set range: 416-414
+Squared error and positive error: 0.0002 0.0149
+################################################
+Training set range: 417-415
+Squared error and positive error: 0.0001 0.0096
+################################################
+Training set range: 418-416
+Squared error and positive error: 0.0010 0.0313
+################################################
+Training set range: 419-417
+Squared error and positive error: 0.0018 0.0420
+################################################
+Training set range: 420-418
+Squared error and positive error: 0.0013 0.0364
+################################################
+Training set range: 421-419
+Squared error and positive error: 0.0033 0.0572
+################################################
+Training set range: 422-420
+Squared error and positive error: 0.0192 0.1386
+################################################
+Training set range: 423-421
+Squared error and positive error: 0.0000 0.0031
+################################################
+Training set range: 424-422
+Squared error and positive error: 0.0002 0.0143
+################################################
+Training set range: 425-423
+Squared error and positive error: 0.0003 0.0160
+################################################
+Training set range: 426-424
+Squared error and positive error: 0.0175 0.1324
+################################################
+Training set range: 427-425
+Squared error and positive error: 0.0000 0.0034
+################################################
+Training set range: 428-426
+Squared error and positive error: 0.0017 0.0414
+################################################
+Training set range: 429-427
+Squared error and positive error: 0.0063 0.0793
+################################################
+Training set range: 430-428
+Squared error and positive error: 0.0001 0.0072
+################################################
+Training set range: 431-429
+Squared error and positive error: 0.0001 0.0074
+################################################
+Training set range: 432-430
+Squared error and positive error: 0.0001 0.0080
+################################################
+Training set range: 433-431
+Squared error and positive error: 0.0004 0.0191
+################################################
+Training set range: 434-432
+Squared error and positive error: 0.0000 0.0066
+################################################
+Training set range: 435-433
+Squared error and positive error: 0.0005 0.0228
+################################################
+Training set range: 436-434
+Squared error and positive error: 0.0196 0.1401
+################################################
+Training set range: 437-435
+Squared error and positive error: 0.0001 0.0090
+################################################
+Training set range: 438-436
+Squared error and positive error: 0.0022 0.0470
+################################################
+Training set range: 439-437
+Squared error and positive error: 0.0024 0.0494
+################################################
+Training set range: 440-438
+Squared error and positive error: 0.0003 0.0179
+################################################
+Training set range: 441-439
+Squared error and positive error: 0.0010 0.0316
+################################################
+Training set range: 442-440
+Squared error and positive error: 0.0004 0.0196
+################################################
+Training set range: 443-441
+Squared error and positive error: 0.0000 0.0022
+################################################
+Training set range: 444-442
+Squared error and positive error: 0.0119 0.1090
+################################################
+Training set range: 445-443
+Squared error and positive error: 0.0002 0.0135
+################################################
+Training set range: 446-444
+Squared error and positive error: 0.0050 0.0710
+################################################
+Training set range: 447-445
+Squared error and positive error: 0.0169 0.1302
+################################################
+Training set range: 448-446
+Squared error and positive error: 0.0093 0.0963
+################################################
+Training set range: 449-447
+Squared error and positive error: 0.0000 0.0032
+################################################
+Training set range: 450-448
+Squared error and positive error: 0.0008 0.0282
+################################################
+Training set range: 451-449
+Squared error and positive error: 0.0073 0.0855
+################################################
+Training set range: 452-450
+Squared error and positive error: 0.0261 0.1615
+################################################
+Training set range: 453-451
+Squared error and positive error: 0.0000 0.0016
+################################################
+Training set range: 454-452
+Squared error and positive error: 0.0014 0.0380
+################################################
+Training set range: 455-453
+Squared error and positive error: 0.0001 0.0103
+################################################
+Training set range: 456-454
+Squared error and positive error: 0.0114 0.1067
+################################################
+Training set range: 457-455
+Squared error and positive error: 0.0160 0.1266
+################################################
+Training set range: 458-456
+Squared error and positive error: 0.0102 0.1011
+################################################
+Training set range: 459-457
+Squared error and positive error: 0.0281 0.1677
+################################################
+Training set range: 460-458
+Squared error and positive error: 0.0446 0.2112
+################################################
+Training set range: 461-459
+Squared error and positive error: 0.0140 0.1184
+################################################
+Training set range: 462-460
+Squared error and positive error: 0.0066 0.0813
+################################################
+Training set range: 463-461
+Squared error and positive error: 0.0002 0.0153
+################################################
+Training set range: 464-462
+Squared error and positive error: 0.0042 0.0645
+################################################
+Training set range: 465-463
+Squared error and positive error: 0.0003 0.0179
+################################################
+Training set range: 466-464
+Squared error and positive error: 0.0036 0.0603
+################################################
+Training set range: 467-465
+Squared error and positive error: 0.0043 0.0658
+################################################
+Training set range: 468-466
+Squared error and positive error: 0.0000 0.0003
+################################################
+Training set range: 469-467
+Squared error and positive error: 0.0003 0.0175
+################################################
+Training set range: 470-468
+Squared error and positive error: 0.0000 0.0011
+################################################
+Training set range: 471-469
+Squared error and positive error: 0.0233 0.1528
+################################################
+Training set range: 472-470
+Squared error and positive error: 0.0005 0.0233
+################################################
+Training set range: 473-471
+Squared error and positive error: 0.0012 0.0344
+################################################
+Training set range: 474-472
+Squared error and positive error: 0.0009 0.0304
+################################################
+Training set range: 475-473
+Squared error and positive error: 0.0005 0.0221
+################################################
+Training set range: 476-474
+Squared error and positive error: 0.0019 0.0441
+################################################
+Training set range: 477-475
+Squared error and positive error: 0.0309 0.1756
+################################################
+Training set range: 478-476
+Squared error and positive error: 0.0329 0.1814
+################################################
+Training set range: 479-477
+Squared error and positive error: 0.0121 0.1099
+################################################

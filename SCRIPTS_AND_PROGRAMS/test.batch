@@ -1,0 +1,4 @@
+loadNet("20i_10h.net");
+loadPattern("frequency_average_validation.pat");
+testNet();
+saveResult("validation_result.res");

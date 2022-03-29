@@ -1,0 +1,10 @@
+
+Environment variable "NUMBER_OF_HIDDEN_NODES" not set
+Using a default value of 10
+
+Environment variable "SNNS_TRAINING_CONFIG" not set.
+
+In function "initialise_snns_training_parameters".
+Using default file "/home/bsm2/abhi/DATA/ABNUM/snns_training_parameters.txt" for configuring the SNNS parameters
+
+Error in prediction of interface angle fraction: 0.0264

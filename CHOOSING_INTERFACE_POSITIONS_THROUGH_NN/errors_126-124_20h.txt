@@ -1,0 +1,548 @@
+Number of cycles: 1000
+Untrined network file: UNTRAINED_NEURAL_NETWORKS/1i_20h.net
+------------------------------------
+
+
+Interface position: H45
+Training set range: 126-124
+Squared error and positive error: 0.2440 0.4940
+################################################
+##########################
+Interface position: H100N
+Only 27 numbering entries found for position H100N
+Unable to process further
+##########################
+Interface position: H100M
+Only 27 numbering entries found for position H100M
+Unable to process further
+##########################
+Interface position: H47
+Training set range: 126-124
+Squared error and positive error: 0.2413 0.4912
+################################################
+##########################
+Interface position: H103
+Training set range: 126-124
+Squared error and positive error: 0.2442 0.4942
+################################################
+##########################
+Interface position: H100K
+Only 37 numbering entries found for position H100K
+Unable to process further
+##########################
+Interface position: H37
+Training set range: 126-124
+Squared error and positive error: 0.2479 0.4979
+################################################
+##########################
+Interface position: H49
+Training set range: 126-124
+Squared error and positive error: 0.2474 0.4974
+################################################
+##########################
+Interface position: H35B
+Only 31 numbering entries found for position H35B
+Unable to process further
+##########################
+Interface position: H100L
+Only 29 numbering entries found for position H100L
+Unable to process further
+##########################
+Interface position: H100F
+Only 85 numbering entries found for position H100F
+Unable to process further
+##########################
+Interface position: H100C
+Only 202 numbering entries found for position H100C
+Unable to process further
+##########################
+Interface position: H91
+Training set range: 126-124
+Squared error and positive error: 0.2441 0.4941
+################################################
+##########################
+Interface position: H100E
+Only 108 numbering entries found for position H100E
+Unable to process further
+##########################
+Interface position: H32
+Training set range: 126-124
+Squared error and positive error: 0.2525 0.5025
+################################################
+##########################
+Interface position: H100D
+Only 137 numbering entries found for position H100D
+Unable to process further
+##########################
+Interface position: H100I
+Only 44 numbering entries found for position H100I
+Unable to process further
+##########################
+Interface position: H100B
+Only 289 numbering entries found for position H100B
+Unable to process further
+##########################
+Interface position: H100G
+Only 54 numbering entries found for position H100G
+Unable to process further
+##########################
+Interface position: H100A
+Only 336 numbering entries found for position H100A
+Unable to process further
+##########################
+Interface position: H35
+Only 478 numbering entries found for position H35
+Unable to process further
+##########################
+Interface position: H101
+Training set range: 126-124
+Squared error and positive error: 0.2260 0.4753
+################################################
+##########################
+Interface position: H100
+Only 382 numbering entries found for position H100
+Unable to process further
+##########################
+Interface position: H39
+Training set range: 126-124
+Squared error and positive error: 0.2436 0.4936
+################################################
+##########################
+Interface position: H93
+Training set range: 126-124
+Squared error and positive error: 0.2359 0.4857
+################################################
+##########################
+Interface position: H95
+Training set range: 126-124
+Squared error and positive error: 0.2833 0.5323
+################################################
+##########################
+Interface position: H99
+Only 412 numbering entries found for position H99
+Unable to process further
+##########################
+Interface position: H44
+Training set range: 126-124
+Squared error and positive error: 0.2854 0.5342
+################################################
+##########################
+Interface position: H50
+Only 480 numbering entries found for position H50
+Unable to process further
+##########################
+Interface position: H100J
+Only 38 numbering entries found for position H100J
+Unable to process further
+##########################
+Interface position: H97
+Only 464 numbering entries found for position H97
+Unable to process further
+##########################
+Interface position: H60
+Training set range: 126-124
+Squared error and positive error: 0.2906 0.5391
+################################################
+##########################
+Interface position: H35A
+Only 58 numbering entries found for position H35A
+Unable to process further
+##########################
+Interface position: H98
+Only 418 numbering entries found for position H98
+Unable to process further
+##########################
+Interface position: H106
+Training set range: 126-124
+Squared error and positive error: 0.2438 0.4938
+################################################
+##########################
+Interface position: H96
+Only 470 numbering entries found for position H96
+Unable to process further
+##########################
+Interface position: H63
+Training set range: 126-124
+Squared error and positive error: 0.2589 0.5089
+################################################
+##########################
+Interface position: H89
+Training set range: 126-124
+Squared error and positive error: 0.2910 0.5395
+################################################
+##########################
+Interface position: H58
+Training set range: 126-124
+Squared error and positive error: 0.2899 0.5384
+################################################
+##########################
+Interface position: H40
+Training set range: 126-124
+Squared error and positive error: 0.2325 0.4822
+################################################
+##########################
+Interface position: H43
+Training set range: 126-124
+Squared error and positive error: 0.2368 0.4866
+################################################
+##########################
+Interface position: H52
+Only 479 numbering entries found for position H52
+Unable to process further
+##########################
+Interface position: H1
+Training set range: 126-124
+Squared error and positive error: 0.2849 0.5338
+################################################
+##########################
+Interface position: H2
+Training set range: 126-124
+Squared error and positive error: 0.5479 0.7402
+################################################
+##########################
+Interface position: H61
+Training set range: 126-124
+Squared error and positive error: 0.2669 0.5166
+################################################
+##########################
+Interface position: H34
+Only 479 numbering entries found for position H34
+Unable to process further
+##########################
+Interface position: H102
+Training set range: 126-124
+Squared error and positive error: 0.2510 0.5010
+################################################
+##########################
+Interface position: H33
+Only 480 numbering entries found for position H33
+Unable to process further
+##########################
+Interface position: H59
+Training set range: 126-124
+Squared error and positive error: 0.2438 0.4937
+################################################
+##########################
+Interface position: H108
+Training set range: 126-124
+Squared error and positive error: 0.2502 0.5002
+################################################
+##########################
+Interface position: H42
+Training set range: 126-124
+Squared error and positive error: 0.2781 0.5274
+################################################
+##########################
+Interface position: H94
+Training set range: 126-124
+Squared error and positive error: 0.2514 0.5014
+################################################
+##########################
+Interface position: H62
+Training set range: 126-124
+Squared error and positive error: 0.2466 0.4966
+################################################
+##########################
+Interface position: H105
+Training set range: 126-124
+Squared error and positive error: 0.2436 0.4935
+################################################
+##########################
+Interface position: H56
+Training set range: 126-124
+Squared error and positive error: 0.2013 0.4487
+################################################
+##########################
+Interface position: H5
+Training set range: 126-124
+Squared error and positive error: 0.2623 0.5121
+################################################
+##########################
+Interface position: H104
+Training set range: 126-124
+Squared error and positive error: 0.2440 0.4940
+################################################
+##########################
+Interface position: H41
+Training set range: 126-124
+Squared error and positive error: 0.2424 0.4924
+################################################
+##########################
+Interface position: H53
+Training set range: 126-124
+Squared error and positive error: 0.2057 0.4536
+################################################
+##########################
+Interface position: H64
+Training set range: 126-124
+Squared error and positive error: 0.9451 0.9721
+################################################
+##########################
+Interface position: H55
+Training set range: 126-124
+Squared error and positive error: 0.2512 0.5012
+################################################
+##########################
+Interface position: H46
+Training set range: 126-124
+Squared error and positive error: 0.2449 0.4949
+################################################
+##########################
+Interface position: H52A
+Only 350 numbering entries found for position H52A
+Unable to process further
+##########################
+Interface position: H3
+Training set range: 126-124
+Squared error and positive error: 0.1807 0.4251
+################################################
+##########################
+Interface position: L44
+Training set range: 126-124
+Squared error and positive error: 0.2373 0.4872
+################################################
+##########################
+Interface position: L98
+Training set range: 126-124
+Squared error and positive error: 0.2449 0.4949
+################################################
+##########################
+Interface position: L36
+Training set range: 126-124
+Squared error and positive error: 0.2409 0.4908
+################################################
+##########################
+Interface position: L46
+Training set range: 126-124
+Squared error and positive error: 0.2431 0.4930
+################################################
+##########################
+Interface position: L87
+Training set range: 126-124
+Squared error and positive error: 0.2203 0.4694
+################################################
+##########################
+Interface position: L34
+Training set range: 126-124
+Squared error and positive error: 0.3140 0.5604
+################################################
+##########################
+Interface position: L96
+Training set range: 126-124
+Squared error and positive error: 0.2960 0.5440
+################################################
+##########################
+Interface position: L89
+Training set range: 126-124
+Squared error and positive error: 0.2856 0.5345
+################################################
+##########################
+Interface position: L99
+Training set range: 126-124
+Squared error and positive error: 0.2449 0.4949
+################################################
+##########################
+Interface position: L91
+Training set range: 126-124
+Squared error and positive error: 0.2444 0.4943
+################################################
+##########################
+Interface position: L95A
+Only 22 numbering entries found for position L95A
+Unable to process further
+##########################
+Interface position: L43
+Training set range: 126-124
+Squared error and positive error: 0.2505 0.5005
+################################################
+##########################
+Interface position: L38
+Training set range: 126-124
+Squared error and positive error: 0.2424 0.4924
+################################################
+##########################
+Interface position: L4
+Training set range: 126-124
+Squared error and positive error: 0.2362 0.4860
+################################################
+##########################
+Interface position: L101
+Training set range: 126-124
+Squared error and positive error: 0.2452 0.4952
+################################################
+##########################
+Interface position: L95
+Only 441 numbering entries found for position L95
+Unable to process further
+##########################
+Interface position: L95C
+Only 1 numbering entries found for position L95C
+Unable to process further
+##########################
+Interface position: L55
+Only 480 numbering entries found for position L55
+Unable to process further
+##########################
+Interface position: L49
+Training set range: 126-124
+Squared error and positive error: 0.2395 0.4894
+################################################
+##########################
+Interface position: L95B
+Only 15 numbering entries found for position L95B
+Unable to process further
+##########################
+Interface position: L94
+Only 479 numbering entries found for position L94
+Unable to process further
+##########################
+Interface position: L32
+Training set range: 126-124
+Squared error and positive error: 0.2599 0.5098
+################################################
+##########################
+Interface position: L50
+Training set range: 126-124
+Squared error and positive error: 0.2705 0.5201
+################################################
+##########################
+Interface position: L51
+Training set range: 126-124
+Squared error and positive error: 0.2385 0.4884
+################################################
+##########################
+Interface position: L85
+Training set range: 126-124
+Squared error and positive error: 0.2485 0.4985
+################################################
+##########################
+Interface position: L93
+Training set range: 126-124
+Squared error and positive error: 0.2250 0.4743
+################################################
+##########################
+Interface position: L30
+Training set range: 126-124
+Squared error and positive error: 0.2697 0.5194
+################################################
+##########################
+Interface position: L92
+Training set range: 126-124
+Squared error and positive error: 0.2357 0.4855
+################################################
+##########################
+Interface position: L53
+Training set range: 126-124
+Squared error and positive error: 0.2712 0.5208
+################################################
+##########################
+Interface position: L57
+Training set range: 126-124
+Squared error and positive error: 0.2449 0.4949
+################################################
+##########################
+Interface position: L27D
+Only 173 numbering entries found for position L27D
+Unable to process further
+##########################
+Interface position: L31
+Training set range: 126-124
+Squared error and positive error: 0.2630 0.5129
+################################################
+##########################
+Interface position: L28
+Only 455 numbering entries found for position L28
+Unable to process further
+##########################
+Interface position: L42
+Training set range: 126-124
+Squared error and positive error: 0.2589 0.5088
+################################################
+##########################
+Interface position: L56
+Only 480 numbering entries found for position L56
+Unable to process further
+##########################
+Interface position: L100
+Training set range: 126-124
+Squared error and positive error: 0.2117 0.4601
+################################################
+##########################
+Interface position: L1
+Training set range: 126-124
+Squared error and positive error: 0.2406 0.4905
+################################################
+##########################
+Interface position: L58
+Training set range: 126-124
+Squared error and positive error: 0.2474 0.4974
+################################################
+##########################
+Interface position: L54
+Only 480 numbering entries found for position L54
+Unable to process further
+##########################
+Interface position: L29
+Training set range: 126-124
+Squared error and positive error: 0.2656 0.5154
+################################################
+##########################
+Interface position: L52
+Training set range: 126-124
+Squared error and positive error: 0.2518 0.5018
+################################################
+##########################
+Interface position: L41
+Training set range: 126-124
+Squared error and positive error: 0.2384 0.4882
+################################################
+##########################
+Interface position: L97
+Training set range: 126-124
+Squared error and positive error: 0.2421 0.4920
+################################################
+##########################
+Interface position: L2
+Training set range: 126-124
+Squared error and positive error: 0.2673 0.5170
+################################################
+##########################
+Interface position: L40
+Training set range: 126-124
+Squared error and positive error: 0.2515 0.5015
+################################################
+##########################
+Interface position: L103
+Training set range: 126-124
+Squared error and positive error: 0.2516 0.5016
+################################################
+##########################
+Interface position: L9
+Training set range: 126-124
+Squared error and positive error: 0.2998 0.5476
+################################################
+##########################
+Interface position: L45
+Training set range: 126-124
+Squared error and positive error: 0.1949 0.4415
+################################################
+##########################
+Interface position: L27F
+Only 36 numbering entries found for position L27F
+Unable to process further
+##########################
+Interface position: L3
+Training set range: 126-124
+Squared error and positive error: 0.2056 0.4534
+################################################
+##########################
+Interface position: L8
+Training set range: 126-124
+Squared error and positive error: 0.2385 0.4884
+################################################
+##########################
+Interface position: L10
+Training set range: 126-124
+Squared error and positive error: 0.2275 0.4770
+################################################
+##########################

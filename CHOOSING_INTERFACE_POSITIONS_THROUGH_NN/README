@@ -1,0 +1,17 @@
+for every interface position
+
+1) Write the interface position itno a temporary file
+
+2) run program create_intermediate_file.sh to create the intermediate file for
+   the single interface position.
+
+3) run program final.exe to create the pattern file, validation file, and produce
+   an error for the boot strapping procedure.
+
+There are problems with some positions not being interface positions in all the antibody
+structures. Take only positions that appear in all antibodies as interface positions.
+
+Modifications: In the overall script, add a parameter to accept a file that contains
+	       the numbering for all structures. Run a grep for every position in
+	       this file. If number of results returned is 481, then proceed with
+	       remaining steps. Else, skip to the next structure.
